@@ -1,0 +1,60 @@
+table {
+border:3px solid #6495ed;
+border-collapse:collapse;
+}
+thead, tfoot {
+background-color:#D0E3FA;
+background-image:url(sky.jpg);
+border:1px solid #6495ed;
+}
+tbody {
+background-color:#FFFFFF;
+/*border:1px solid #6495ed;*/
+width:40%;
+height:40%;
+}
+th {
+font-family:monospace;
+border:1px dotted #6495ed;
+background-color:#EFF6FF;
+}
+td {
+text-align:center;
+font-family:sans-serif;
+border:1px solid #6495ed;
+empty-cells: show;
+font-weight:bold;
+font-size:250%;
+}
+caption {
+font-family:sans-serif;
+}
+
+
+h2.hyper_bingo
+{
+position: relative;
+top: -65%; 
+left: 40%; 
+font: bold italic 800% times, serif;
+color: #60a917;
+} 
+
+h2.hyper_ligne
+{
+position: relative;
+top: -65%; 
+left: 40%; font: bold italic 800% times, serif;
+color: #fa6800;
+} 
+
+h2.hyper_not_found
+{
+position: relative;
+top: -55%; 
+left:35%;  
+font: bold italic 600% times, serif;
+color: #D80000;
+} 
+
+
